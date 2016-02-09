@@ -5,15 +5,15 @@
 
   // 2) What are the four rules that govern what the 'this keyword' is bound to and describe each?
 
-      //Answer
+      //Default binding: When a function is called, unless it is invoked in the context of an object, it is by default bound to the global object, or the window object.
 
   // 3) What is the difference between call and apply?
 
-      //Answer
+      // With call you can provide arguments in the parameters, with apply you provide an array of arguments in the parameters.
 
   // 4) What does .bind do?
 
-      //Answer
+      // returns a function definition with the arguments fixed.
 
 
 //Next Problem
